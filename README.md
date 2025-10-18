@@ -8,7 +8,6 @@
 
 <h3 align="center">💻 Stack</h3>
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
@@ -18,5 +17,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugz29&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yugz29&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+---
