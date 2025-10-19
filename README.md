@@ -23,9 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yugz29&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugz29&layout=compact&theme=dark" alt="Top Languages" height="160" />
 </p>
 
