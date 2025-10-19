@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugz29&layout=compact&theme=dark" alt="Top Languages" />
 </p>
