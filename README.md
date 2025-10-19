@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <a href="[https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/yann-duzelier-096960353&ved=2ahUKEwiX8u_lmrCQAxV0UaQEHfkgMKgQFnoECCIQAQ&usg=AOvVaw2LTTmhakInc2KJAMvWbLXh]" target="_blank">
+  <a href="https://fr.linkedin.com/in/yann-duzelier-096960353" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a>
 </p>
