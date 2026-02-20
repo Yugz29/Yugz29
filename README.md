@@ -11,20 +11,14 @@
 
 ## 🚀 Projects
 
-### 🔗 [Nom du projet 1](https://github.com/Yugz29/nom-du-repo)
-> 📝 Description courte de ce que fait le projet
-> 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🔗 [📓 DevNote](https://github.com/Yugz29/DevNote)
+> 📝 Unified web application to centralize, organize, and instantly retrieve technical knowledge.
+> Tagline: Your dev knowledge, everywhere, instantly.
 
 ---
 
-### 🔗 [Nom du projet 2](https://github.com/Yugz29/nom-du-repo)
-> 📝 Description courte de ce que fait le projet
->
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
+### 🔗 [🏡 HBnB](https://github.com/Yugz29/holbertonschool-hbnb)
+> 📝 HBnB is a simplified version of AirBnB, developed as an educational project to explore full-stack development, object-oriented architecture, and API design.
 
 ---
 
