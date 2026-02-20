@@ -11,13 +11,13 @@
 
 ## 🚀 Projects
 
-### 🔗 [📓 DevNote](https://github.com/Yugz29/DevNote)
+### [📓 DevNote](https://github.com/Yugz29/DevNote)
 > Unified web application to centralize, organize, and instantly retrieve technical knowledge.
 > Tagline: Your dev knowledge, everywhere, instantly.
 
 ---
 
-### 🔗 [🏡 HBnB](https://github.com/Yugz29/holbertonschool-hbnb)
+### [🏡 HBnB](https://github.com/Yugz29/holbertonschool-hbnb)
 > HBnB is a simplified version of AirBnB, developed as an educational project to explore full-stack development, object-oriented architecture, and API design.
 
 ---
