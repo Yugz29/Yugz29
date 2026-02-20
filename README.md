@@ -22,6 +22,11 @@
 
 ---
 
+### [💵 CryptoPredict](https://github.com/Yugz29/CryptoPredict)
+> Bitcoin price prediction project with LSTM, ⚠️ Warning: Purely experimental project. Do not use for actual trading.
+
+---
+
 ## 🛠️ Skills
 
 ### 💻 Languages
