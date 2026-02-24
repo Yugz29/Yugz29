@@ -17,6 +17,11 @@
 
 ---
 
+### [👁️‍🗨️ Pulse](https://github.com/Yugz29/Pulse)
+> Pulse is an intelligent agent residing on the desktop, functioning as a proactive entity.
+
+---
+
 ### [🏡 HBnB](https://github.com/Yugz29/holbertonschool-hbnb)
 > HBnB is a simplified version of AirBnB, developed as an educational project to explore full-stack development, object-oriented architecture, and API design.
 
