@@ -17,8 +17,8 @@
 
 ---
 
-### [👁️‍🗨️ Pulse](https://github.com/Yugz29/Pulse)
-> Pulse is an intelligent agent residing on the desktop, functioning as a proactive entity.
+### [🧠 Cortex (formerly Pulse)](https://github.com/Yugz29/Cortex)
+> Cortex is a local-first code quality monitor that runs quietly in the background and tells you what's actually wrong, before it becomes a problem.
 
 ---
 
