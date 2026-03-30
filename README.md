@@ -2,7 +2,7 @@
 
 # 👋🏼 Hi, I'm Yann
 
-### 🎓 FullStack Developer Student at Holberton
+### 🎓 FullStack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/yann-duzelier-096960353)
 [![Profile Views](https://komarev.com/ghpvc/?username=Yugz29&style=for-the-badge&color=blue)](https://github.com/Yugz29)
