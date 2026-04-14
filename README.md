@@ -14,10 +14,14 @@
 ### [📓 DevNote](https://github.com/Yugz29/DevNote)
 > Unified web application to centralize, organize, and instantly retrieve technical knowledge.
 > Tagline: Your dev knowledge, everywhere, instantly.
+---
+
+### [Pulse](https://github.com/Yugz29/Pulse)
+> Pulse is MacOS ambient agent · A local context, memory and control layer between you and the AI.
 
 ---
 
-### [🔵 Cortex (formerly Pulse)](https://github.com/Yugz29/Cortex)
+### [🔵 Cortex](https://github.com/Yugz29/Cortex)
 > Cortex is a local-first code quality monitor that runs quietly in the background and tells you what's actually wrong, before it becomes a problem.
 
 ---
